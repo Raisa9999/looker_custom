@@ -47,6 +47,10 @@ Light blue: CCE9F9
 Light grey: f2f7fc
 */
 
+.reportTable td:nth-child(2), th:nth-child(2) {
+ border-left: solid 2px red;
+}
+
 /* headers */
 .reportTable th {
   color: #285DAB;
