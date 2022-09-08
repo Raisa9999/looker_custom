@@ -80,7 +80,7 @@ Light grey: f2f7fc
 
 }
 
-.reportTable tr:nth-child(odd) {
+tr:nth-child(odd) {
   background: #CCCCCC;
 }
 
