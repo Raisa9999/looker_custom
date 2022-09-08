@@ -47,16 +47,20 @@
   /* Add customization here  */
 
 }
+/* color codes
+Coolblue blue: 0090e3
+Light grey: f2f7fc
+*/
 
-/* headers 0090e3 */
+/* headers */
 .reportTable th {
   color: #FFFFFF;
-  border: 1px solid #f2f7fc; 
+  border: 1px solid #0090e3; 
   border-bottom: 1px solid #FFFFFF !important;
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-  background: #f2f7fc;
+  background: #0090e3;
 
   /* Add customization here  */
 
