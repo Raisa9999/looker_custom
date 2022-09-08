@@ -47,10 +47,6 @@ Light blue: CCE9F9
 Light grey: f2f7fc
 */
 
-.reportTable td:nth-child(3n+1) {
- border-right: solid 5px #FFFFFF;
-}
-
 /* headers */
 .reportTable th {
   color: #285DAB;
@@ -69,9 +65,14 @@ Light grey: f2f7fc
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF; --> overwrites odd/even alternating background colors*/
-  border: 1px solid #FFFFFF; 
+  border: none; /*1px solid #FFFFFF; */
   border-collapse: collapse;
 
+}
+
+/* White column divider. Starts after the first column and repeats every 3 columns */
+.reportTable td:nth-child(3n+1) {
+ border-right: solid 7px #FFFFFF;
 }
 
 /* table rows for alternating background colors */
