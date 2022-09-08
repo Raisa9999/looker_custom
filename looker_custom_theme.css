@@ -54,13 +54,13 @@ Light grey: f2f7fc
 
 /* headers */
 .reportTable th {
-  color: #FFFFFF;
-  border: 1px solid #0090e3; 
+  color: #000000;
+  border: 1px solid #CCE9F9; 
   border-bottom: 1px solid #FFFFFF !important;
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-  background: #0090e3;
+  background: #CCE9F9;
 
   /* Add customization here  */
 
