@@ -56,7 +56,7 @@ Light grey: f2f7fc
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-  background: #FFFFFF;
+  background: #FF6600;
 
 }
 
@@ -65,7 +65,7 @@ Light grey: f2f7fc
   color: #000000;
   vertical-align: super;
   padding: 5px;
-  /*background: #FFFFFF; --> overwrites odd/even alternating background colors*/
+  background: #FF6600; 
   border: none;
   border-collapse: collapse;
 
