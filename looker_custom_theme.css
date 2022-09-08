@@ -66,7 +66,7 @@ Light grey: f2f7fc
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF; --> overwrites odd/even alternating background colors*/
-  border: none;
+  border: 1px solid #FFFFFF;
   border-collapse: collapse;
 
 }
