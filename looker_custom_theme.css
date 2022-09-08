@@ -58,7 +58,7 @@ Light grey: f2f7fc
 /* headers */
 .reportTable th {
   color: #285DAB;
-  /* border: 2px solid #FFFFFF; */
+  border: 1px solid #FFFFFF; 
   border-bottom: 1px solid #a6a6a6 !important;
   /* font-size: 10px;  */
   /* height: 25px; */
