@@ -81,7 +81,7 @@ Light grey: f2f7fc
 }
 
 .reportTable tr:nth-child(odd) {
-	background: #CCC;
+  background: #CCCCCC;
 }
 
 .left {
