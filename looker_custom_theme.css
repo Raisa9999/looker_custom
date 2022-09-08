@@ -75,6 +75,10 @@ Light grey: f2f7fc
  border-right: solid 7px #FFFFFF;
 }
 
+.reportTable td:nth-child(1) {
+ border-left: solid 2px #FFFFFF;
+}
+
 /* table rows for alternating background colors */
 .reportTable tr:nth-child(even) {
   background: #f2f7fc;
