@@ -47,7 +47,7 @@ Light blue: CCE9F9
 Light grey: f2f7fc
 */
 
-.reportTable td:nth-child(1) {
+.reportTable td:nth-child(3n+1) {
  border-right: solid 2px #a6a6a6;
 }
 
