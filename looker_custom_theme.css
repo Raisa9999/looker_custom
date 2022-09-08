@@ -48,10 +48,11 @@
 
 }
 
+/* headers */
 .reportTable th {
-  color: #a6a6a6;
-  border: 1px solid #CCCCCC; 
-  border-bottom: 1px solid #CCCCCC !important;
+  color: #FFFFFF;
+  border: 1px solid #0090e3; 
+  border-bottom: 1px solid #FFFFFF !important;
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
@@ -61,6 +62,7 @@
 
 }
 
+/* table body */
 .reportTable td {
   color: #000000;
   vertical-align: super;
