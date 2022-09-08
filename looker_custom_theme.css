@@ -74,13 +74,12 @@ Light grey: f2f7fc
   /*background: #FFFFFF;*/
   border: 1px solid #FFFFFF; 
   border-collapse: collapse;
-  background: #FFFFFF;
 
   /* Add customization here  */
 
 }
 
-tr:nth-child(odd) {
+.reportTable tr:nth-child(odd) {
   background: #CCCCCC;
 }
 
