@@ -73,6 +73,7 @@ Light grey: f2f7fc
 /* White column divider. Starts after the first column and repeats every 3 columns */
 .reportTable td:nth-child(3n+1) {
  border-right: solid 7px #FFFFFF;
+ border-left: none;
 }
 
 /* table rows for alternating background colors */
