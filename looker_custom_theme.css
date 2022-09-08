@@ -49,18 +49,21 @@
 }
 /* color codes
 Coolblue blue: 0090e3
+Coolblue orange: FF6600
+Dark blue: 285DAB
+Light blue: CCE9F9
 Light grey: f2f7fc
 */
 
 /* headers */
 .reportTable th {
-  color: #000000;
-  border: 1px solid #CCE9F9; 
-  border-bottom: 1px solid #FFFFFF !important;
+  color: #285DAB;
+  border: 1px solid #FFFFFF; 
+  border-bottom: 1px solid #a6a6a6 !important;
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-  background: #CCE9F9;
+  background: #FFFFFF;
 
   /* Add customization here  */
 
