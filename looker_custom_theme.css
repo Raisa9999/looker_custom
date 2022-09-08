@@ -71,15 +71,6 @@ Light grey: f2f7fc
 
 }
 
-/* White column divider. Starts after the first column and repeats every 3 columns */
-.reportTable td:nth-child(3n+1) {
- border-right: solid 7px #FFFFFF;
-}
-
-.reportTable td:nth-child(1) {
- border-left: solid 2px #FFFFFF;
-}
-
 /* table rows for alternating background colors */
 .reportTable tr:nth-child(even) {
   background: #f2f7fc;
