@@ -15,14 +15,10 @@
     font-size: 12px;
     z-index: 2;
 
-    /* Add customization here  */
-
 }
 
 #tooltip.hidden {
     display: none;
-
-  /* Add customization here  */
 
 }
 
@@ -31,8 +27,6 @@
     font-family: sans-serif;
     font-size: 12px;
     line-height: 15px;
-
-    /* Add customization here  */
 
 
 }
@@ -43,8 +37,6 @@
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
-
-  /* Add customization here  */
 
 }
 /* color codes
@@ -65,8 +57,6 @@ Light grey: f2f7fc
   padding: 5px;
   background: #FFFFFF;
 
-  /* Add customization here  */
-
 }
 
 /* table body */
@@ -74,14 +64,13 @@ Light grey: f2f7fc
   color: #000000;
   vertical-align: super;
   padding: 5px;
-  /*background: #FFFFFF;*/
+  /*background: #FFFFFF; --> overwrites odd/even alternating background colors*/
   border: 1px solid #FFFFFF; 
   border-collapse: collapse;
 
-  /* Add customization here  */
-
 }
 
+/* table rows for alternating background colors */
 .reportTable tr:nth-child(even) {
   background: #f2f7fc;
 }
@@ -89,21 +78,15 @@ Light grey: f2f7fc
 .left {
   text-align: left;
 
-  /* Add customization here  */
-
 }
 
 .right {
   text-align: right !important;
 
-  /* Add customization here  */
-
 }
 
 .indent {
   padding-left: 15px !important;
-
-  /* Add customization here  */
 
 }
 
@@ -112,22 +95,16 @@ Light grey: f2f7fc
   font-weight: bold;
   background: #D3D3D3;
 
-  /* Add customization here  */
-
 }
 
 .total {
   border-top: 2px solid #a6a6a6 !important;
   font-weight: bold !important;
 
-  /* Add customization here  */
-
 }
 
 .total.transposed {
   border-top: 0px !important;
   background: #D3D3D3;
-
-  /* Add customization here  */
 
 }
