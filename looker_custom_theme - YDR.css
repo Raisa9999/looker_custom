@@ -18,7 +18,7 @@ Light grey: f2f7fc
     -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
     pointer-events: none;
-    font-family: sans-serif;
+    font-family: Open Sans, sans-serif, Verdana, Arial;
     font-size: 12px;
     z-index: 2;
 
@@ -31,7 +31,7 @@ Light grey: f2f7fc
 
 #tooltip p {
     margin: 0;
-    font-family: sans-serif;
+    font-family: Open Sans, sans-serif, Verdana, Arial;
     font-size: 12px;
     line-height: 15px;
 
@@ -40,7 +40,7 @@ Light grey: f2f7fc
 
 /* table */
 .reportTable {
-  font-family: Open Sans;
+  font-family: Open Sans, sans-serif, Verdana, Arial;
   font-size: 12px;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
