@@ -48,7 +48,7 @@ Light grey: f2f7fc
 */
 
 .reportTable td:nth-child(2) {
- border-left: solid 1px #a6a6a6;
+ border-left: solid 2px #a6a6a6;
 }
 
 /* headers */
