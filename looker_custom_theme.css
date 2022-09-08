@@ -79,7 +79,7 @@ Light grey: f2f7fc
 
 }
 
-.reportTable tr:nth-child(odd) {
+.reportTable tr:nth-child(even) {
   background: #f2f7fc;
 }
 
