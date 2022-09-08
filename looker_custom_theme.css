@@ -48,15 +48,15 @@
 
 }
 
-/* headers */
+/* headers 0090e3 */
 .reportTable th {
   color: #FFFFFF;
-  border: 1px solid #0090e3; 
+  border: 1px solid #f2f7fc; 
   border-bottom: 1px solid #FFFFFF !important;
   /* font-size: 10px;  */
   /* height: 25px; */
   padding: 5px;
-  background: #0090e3;
+  background: #f2f7fc;
 
   /* Add customization here  */
 
@@ -68,8 +68,8 @@
   vertical-align: super;
   padding: 5px;
   /*background: #FFFFFF;*/
-  /*border: 1px solid #CCCCCC; */
-  /*border-collapse: collapse;*/
+  border: 1px solid #FFFFFF; 
+  border-collapse: collapse;
   background: #FFFFFF;
 
   /* Add customization here  */
