@@ -100,19 +100,24 @@ Light grey: f2f7fc
 
 .total {
   border-left: 2px solid #a6a6a6 !important;
-  border-top: 2px solid #FFFFFF !important;
-  border-bottom: 2px solid #FFFFFF !important;
+  /* border-top: 2px solid #FFFFFF !important;
+  border-bottom: 2px solid #FFFFFF !important; */
   font-weight: bold !important;
 
 }
 
 .total.transposed {
-  border-top: 0px !important;
+  /* border-top: 0px !important; */
   background: #FFFFFF;
 
 }
 
 /* table rows for alternating background colors */
 .total tr:nth-child(even) {
+  background: #f2f7fc;
+}
+
+/* table rows for alternating background colors */
+.total.transposed tr:nth-child(even) {
   background: #f2f7fc;
 }
