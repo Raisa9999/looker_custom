@@ -107,6 +107,11 @@ Light grey: f2f7fc
 
 .total.transposed {
   border-top: 0px !important;
-  background: #D3D3D3;
+  background: #FFFFFF;
 
+}
+
+/* table rows for alternating background colors */
+.total.transposed tr:nth-child(even) {
+  background: #f2f7fc;
 }
