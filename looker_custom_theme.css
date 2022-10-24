@@ -100,7 +100,7 @@ Light grey: f2f7fc
 
 .total {
   border-left: 2px solid #a6a6a6 !important;
-  border-top: 1px solid #FFFFFF
+  border-top: 1px solid #FFFFFF !important;
   border-bottom: 1px solid #FFFFFF !important;
   font-weight: bold !important;
 
