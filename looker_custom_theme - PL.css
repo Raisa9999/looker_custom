@@ -86,7 +86,7 @@ Light grey: f2f7fc
 }
 
 /* bold rows to highlight certain metrics */
-.reportTable tr:nth-child(5) {
+.reportTable tr:nth-child(5, 11, 13) {
   font-weight: bold !important;
 }
 
