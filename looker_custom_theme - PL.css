@@ -86,6 +86,10 @@ Light grey: f2f7fc
 }
 
 /* bold rows to highlight certain metrics */
+.reportTable tr:nth-child(2) {
+  font-weight: bold !important;
+}
+
 .reportTable tr:nth-child(5) {
   font-weight: bold !important;
 }
@@ -95,6 +99,10 @@ Light grey: f2f7fc
 }
 
 /* cursive rows to highlight certain metrics */
+.reportTable tr:nth-child(3) {
+  font-style: italic !important;
+}
+
 .reportTable tr:nth-child(6) {
   font-style: italic !important;
 }
