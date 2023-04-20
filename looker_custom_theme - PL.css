@@ -42,7 +42,7 @@ Light grey: f2f7fc
 .reportTable {
   font-family: Open Sans, sans-serif, Verdana, Arial;
   font-size: 12px;
-  border: 1px solid #CCCCCC; 
+  border: 1px solid #CCCCCC;
   border-collapse: collapse;
   border-spacing: 3px;
 
@@ -51,7 +51,7 @@ Light grey: f2f7fc
 /* headers */
 .reportTable th {
   color: #000000;
-  border: 1px solid #FFFFFF; 
+  border: 1px solid #FFFFFF;
   border-bottom: 1px solid #a6a6a6 !important;
   /* font-size: 10px;  */
   /* height: 25px; */
@@ -81,7 +81,7 @@ Light grey: f2f7fc
   font-weight: bold !important;
 }
 
-.reportTable tr:nth-child(2n+11) {
+.reportTable tr:nth-child(2n+12) {
   font-weight: bold !important;
 }
 
@@ -91,7 +91,7 @@ Light grey: f2f7fc
   font-style: italic !important;
 }
 
-.reportTable tr:nth-child(14) {
+.reportTable tr:nth-child(15) {
   font-style: italic !important;
 }
 
